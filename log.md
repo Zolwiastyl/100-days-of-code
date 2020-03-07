@@ -1,16 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: March 30, 2020
 
-##### (delete me or comment me out)
+**Today's Progress**:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** []()
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: March 6, 2020
 
 **Today's Progress:** Just learned the basics of useState Hook, and components embeding.
 
@@ -18,3 +16,11 @@
 trying to code something even in very brute way, whereas the second approach gave much better results.
 
 **Link to work:** [Twitter post](https://twitter.com/zolwiastyl/status/1236043655934341121)
+
+### Day 1: March 7, 2020
+
+**Today's Progress**: Get more fluent in passing props down the components, got some fun styling text with CSS.
+
+**Thoughts:** As yesterday I wish I would start coding more instead of reading earlier. I felt like having a grate brakethrough just by understanding rules of passing props in React.
+
+**Link to work:** [Twitter post](https://twitter.com/zolwiastyl/status/1236401968786128896)
