@@ -57,3 +57,11 @@ Responsive Web Design Certificate / Basic HTML and HTML5
 **Thoughts:** To be able to keep track of my progress and to see in a while how my coding skills improved or style changed I will make separate folder for each day, within I will include code downloaded from excercises made on freecodecamp.org. It will be in .txt because that's the default file format from the website.
 
 **Link to work:** [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
+
+### Day 6: March 12, 2020
+
+**Today's Progress**: I've get to know what currying is and finally how to use spread operator, used .sort with my own sort function.
+
+**Thoughts:** I think this should be the last day of me coding just for coding I will need to start building a project.
+
+**Link to work:** [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
