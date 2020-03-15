@@ -65,3 +65,28 @@ Responsive Web Design Certificate / Basic HTML and HTML5
 **Thoughts:** I think this should be the last day of me coding just for coding I will need to start building a project.
 
 **Link to work:** [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
+
+### Day 7: March 13, 2020
+
+**Today's Progress**: Started working on todoapp and that was really nice seeing how this small amount of knowledge that i've get from excercises from previous days helped me to really kick in
+
+**Thoughts:** As far, deciding about quitting excerises and commiting myself to project was a really good decision
+
+**Link to work:** [Tweet](https://twitter.com/zolwiastyl/status/1238956360689233921?s=20)
+
+### Day 8: March 14, 2020
+
+**Today's Progress**: Day 2 of doing that simple todo app, had some minor issues, today finishing with almost working moving tasks from todo list to done list. I see what mistakes I've made during wirtting my code.
+
+**Thoughts:** My friends who said to me that the most important is to just write a lot of code with no quality requirements were right. After writting this basic to do app I can see what I've planned in a bad manner, how should I change my thinking to adjust it to thinking in React. Only now I just know what to do better next time. I hope this feeling will stick with me for only few weeks!
+
+**Link to work:** [tweet](https://twitter.com/zolwiastyl/status/1239149575467827200?s=20)
+
+### Day 9: March 15, 2020
+
+**Today's Progress**: Attached my first backend to frontend, overcame the issue from yesterday.
+Using my first back-end was exciting beacuse until now I have been doing just dummies/mockup apps, which were just hanging on the html with no backup.
+
+**Thoughts:** Have to make some more time just for coding during my daily schedule. I need to remmember about continuing process of learning front-end so as not to throw myself into darklang completely, because feeling like I am on the good way with React.
+
+**Link to work:** [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
